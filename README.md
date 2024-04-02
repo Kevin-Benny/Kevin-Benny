@@ -6,6 +6,10 @@
 
 
 <!--
+
+[![](https://visitcount.itsvg.in/api?id=Kevin-Benny&label=Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevin-Benny&show_icons=true&locale=en&layout=compact" alt="Kevin-Benny" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevin-Benny&show_icons=true&locale=en" alt="Kevin-Benny" /></p>
@@ -27,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-[![](https://visitcount.itsvg.in/api?id=Kevin-Benny&label=Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
+

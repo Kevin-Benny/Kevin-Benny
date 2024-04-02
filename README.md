@@ -1,5 +1,5 @@
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kevin-Benny&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Benny&row=1&column=5&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 
 

@@ -1,7 +1,7 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Benny&row=1&column=5&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
-![](https://visitcount.itsvg.in/api?id=Kevin-Benny&label=Views&color=0&icon=8&pretty=true)
+[](https://visitcount.itsvg.in/api?id=Kevin-Benny&label=Views&color=0&icon=8&pretty=true)
 
 
 

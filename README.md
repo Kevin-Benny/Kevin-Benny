@@ -6,7 +6,11 @@
   
   ![](https://visitcount.itsvg.in/api?id=Kevin-Benny&label=Views&color=0&icon=8&pretty=true)
 </details>
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin-Benny&theme=gotham">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin-Benny&theme=nord_bright">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin-Benny&theme=nord_bright" alt="Most repos lang">
+  </picture>
 <!--
 
 [![](https://visitcount.itsvg.in/api?id=Kevin-Benny&label=Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)

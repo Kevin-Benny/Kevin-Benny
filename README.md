@@ -1,3 +1,9 @@
+## Stats
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Benny&row=1&column=5&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 

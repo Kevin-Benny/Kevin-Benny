@@ -1,6 +1,6 @@
-# 💫About Me :
 Build things that age well.
 
+Something that really touched me:
 Clarity is preferred over cleverness, and simplicity over premature optimisation.
 
 
